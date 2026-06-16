@@ -1,4 +1,4 @@
-# 📚 Mugisha's Bookstore API
+# 📚 Bookstore API
 A REST API to manage books built with **Express.js** and **MongoDB**.
 
 ## Setup
@@ -17,4 +17,4 @@ npm run dev
 | DELETE | `/api/books/:id` | Delete a book |
 
 ## Author
-ISHIMWE Lina Assoumani — Rwanda Coding Academy
+ISHIMWE Lina Assoumani - Rwanda Coding Academy
