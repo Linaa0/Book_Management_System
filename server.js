@@ -1,4 +1,3 @@
-// Original base code:
 // const express = require('express')
 // const app = express();
 // const books = [];
